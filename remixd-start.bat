@@ -1,0 +1,1 @@
+remixd -s %cd%
